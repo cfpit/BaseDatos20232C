@@ -1,0 +1,20 @@
+Trabajo Practico - Consultas simples y condicionadas - Base Negocio
+
+Hacer ejercitacion de acuerdo a la tabla productos de la base negocio
+
+1. Obtener los productos con:
+    a. precio mayor 100
+    b. precio mayor 500 y menor 1000 (utilizar operadores > y <)
+    c. precio mayor 500 y menor 1000 (utilizar BETWEEN)
+    d. precio igual a 1000 y stock mayor a 3
+    e. precio sea 100, 500 o 1000 (no utilizar el IN)
+    f. precio sea 100, 500 o 1000 (utilizar el IN)
+    g. precio no sea 500, 600 o 700
+
+2. listar los productos ordenados por precio de mayor a menor, y si hubiera precios iguales deben quedar ordenados por nombre de forma ascendente
+
+3. listar todos los productos incluyendo una columna denominada "precio_con_IVA", la cual debera tener el monto con iva del
+articulo
+
+4. listar todos los productos incluyendo una columna denominada "cantidad_cuotas" y otra "valor_cuota". La cantidad de cuotas
+es fija y debe ser 3, y el valor de la cuota corresponde a 1/3 del monto con un 5% de interes
