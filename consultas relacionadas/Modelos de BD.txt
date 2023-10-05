@@ -1,0 +1,14 @@
+Modelos de BD
+	--> Relacional
+		--> SQL
+			--> MySQL
+			--> Postgre SQL
+			--> SQLite
+			--> SQL Server --> .NET
+			--> Oracle
+			-- Access	
+
+		--> No SQL
+			--> Mongo DB
+			--> Cassandra
+			--> Redis
