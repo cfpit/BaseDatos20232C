@@ -1,0 +1,25 @@
+SQL
+	--> DDL: lenguaje de definicion de datos
+		--> CREATE
+		--> DROP
+		--> ALTER
+		--> operan sobre objetos de la BD
+				--> bases de datos
+				--> tablas
+				--> vistas
+				--> otros
+
+	--> DML: lenguaje de manipulacion de datos
+		--> SELECT
+		--> INSERT (simple o multiple)
+			--> simplificado: cuando conozco todos los datos
+			--> extendido: cuando NO conozco todos los datos
+		--> UPDATE
+		--> DELETE
+		--> operan sobre registros de las tablas o vistas
+				
+
+
+
+
+
